@@ -35,7 +35,7 @@ def countdown(t):
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument('username', help='Instagram username of the user you want to attack')
+parser.add_argument('k245sem', help='Instagram username of the user you want to attack')
 parser.add_argument('passwords_file', help='A passwords file for the software')
 args = parser.parse_args()
 
